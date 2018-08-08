@@ -1,4 +1,4 @@
-package deep.dive.edu;
+package edu.cnm.deepdive;
 
 public class ComplementaryDNA {
   public String complement(String input) {
